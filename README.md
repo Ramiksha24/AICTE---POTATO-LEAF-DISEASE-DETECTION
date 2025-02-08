@@ -2,6 +2,8 @@
 
 🍂 Potato Leaf Disease Detection using CNN
 🔍 Overview
+
+
 This project is a Deep Learning-based web application built using TensorFlow, Streamlit, and OpenCV to detect potato leaf diseases. The system helps farmers and agricultural experts identify diseases early, ensuring sustainable farming practices.
 
 🛠 Features
