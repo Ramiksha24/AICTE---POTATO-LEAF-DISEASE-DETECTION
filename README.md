@@ -1,6 +1,8 @@
 # AICTE---POTATO-LEAF-DISEASE-DETECTION
 
 🍂 Potato Leaf Disease Detection using CNN
+
+
 🔍 Overview
 
 
